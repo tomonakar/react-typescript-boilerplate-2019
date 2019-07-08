@@ -1,8 +1,8 @@
 import * as React from 'react'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 
-import PageA from '../src/pages/PageA'
-import PageB from '../src/pages/PageB'
+import PageA from '../pages/PageA'
+import PageB from '../pages/PageB'
 
 const router = (
   <Router>
